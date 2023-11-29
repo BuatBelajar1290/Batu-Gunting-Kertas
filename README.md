@@ -1,6 +1,6 @@
 # Belajar Machine Learning untuk Pemula
 
-Selamat datang di proyek Belajar Machine Learning untuk Pemula! Proyek ini dirancang untuk membantu pemula memahami dasar-dasar pengembangan Machine Learning untuk Pemula.
+Selamat datang di proyek Belajar Machine Learning untuk Pemula! Proyek ini dirancang untuk membantu pemula memahami dasar-dasar pengembangan Machine Learning
 
 ## Deskripsi
 
