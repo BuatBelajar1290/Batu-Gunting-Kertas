@@ -13,6 +13,8 @@ Istilah machine learning pertama kali dipopulerkan oleh Arthur Samuel, seorang i
    ```bash
    https://github.com/BuatBelajar1290/Batu-Gunting-Kertas.git
    
-2.NOTED
+2. **NOTED**
+
+
     Running menggunakan google colab
 
